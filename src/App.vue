@@ -11,7 +11,7 @@ export default {
   name: 'App',
   data() {
     return {
-      mainTitle: '다팔아 쇼핑몰',
+      mainTitle: '잘팔아 쇼핑몰',
     };
   },
   components: { TitleCp },
